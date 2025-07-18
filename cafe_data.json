@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "Mocha": {
+      "ingredients": ["Espresso", "Chocolate", "Steamed Milk"],
+      "calories": 290
+    },
+    "Hot Chocolate": {
+      "ingredients": ["Chocolate", "Steamed Milk", "Whipped Cream"],
+      "calories": 350
+    }
+  },
+  "hours": {
+    "Monday": "07:00–22:00",
+    "Friday": "08:00–23:00"
+  }
+}
